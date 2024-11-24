@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "552012653499",
+    "project_id": "lingolifee",
+    "storage_bucket": "lingolifee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552012653499:android:db8f916761115b71239a9e",
+        "android_client_info": {
+          "package_name": "com.company.lingolife"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-hy8pMyf4XoQ4ixLEO3WM4VeGOmoMHkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552012653499:android:c5983ec46c28af39239a9e",
+        "android_client_info": {
+          "package_name": "com.example.lingol"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-hy8pMyf4XoQ4ixLEO3WM4VeGOmoMHkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
